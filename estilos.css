@@ -1,0 +1,11 @@
+body{
+align-content: center;
+align-items:center ;
+text-align: center;
+background-color: bisque;
+}
+
+body .div1 p{
+
+    font-size: 50px;
+}
